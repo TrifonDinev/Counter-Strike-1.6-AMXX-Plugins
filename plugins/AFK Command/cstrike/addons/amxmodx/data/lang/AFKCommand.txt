@@ -1,0 +1,9 @@
+[en]
+MSG_AFK = You Were Transfered To Spectator!
+MSG_ALREADY = You Are Already Spectator!
+
+[bg]
+MSG_AFK = Vie Bqhte Prehvurlen Kum Nabludavashtite!
+MSG_ALREADY = Vie Veche Ste Nabludavasht!
+
+

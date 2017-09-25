@@ -1,0 +1,7 @@
+[en]
+MSG_RESET = Your Score Has Been Resetted!
+
+[bg]
+MSG_RESET = Vashiat Stats Beshe Zanulen!
+
+
