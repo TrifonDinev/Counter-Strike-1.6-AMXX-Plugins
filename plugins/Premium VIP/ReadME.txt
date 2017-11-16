@@ -4,7 +4,7 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
-This Plugin Uses ADMIN_RESERVATION OR SO CALLED FLAG "b" - "reservation (can join on reserved slots)"! 
+This Plugin Uses ADMIN_RESERVATION OR THE SO CALLED FLAG "b" - "reservation (can join on reserved slots)"! 
 Every Player With Flag "b" Will Have VIP Extras 
 
 Examples:
